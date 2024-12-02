@@ -45,7 +45,7 @@
 }
 
 #urlbar[breakout][breakout-extend] {
-	top: -4px !important;
+	top: 8px !important;
 }
 
 #urlbar[breakout][breakout-extend] > #urlbar-input-container {
